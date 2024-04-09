@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ImHWGM/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: caelumkim/nodejs-github-action:${{ env.CURRENT_TIME }}
